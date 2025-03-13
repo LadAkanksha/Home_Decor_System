@@ -1,0 +1,12 @@
+F:\C# College Project\Home_Decor_App\Home_Decor_App\bin\Debug\Home_Decor_App.exe.config
+F:\C# College Project\Home_Decor_App\Home_Decor_App\bin\Debug\Home_Decor_App.exe
+F:\C# College Project\Home_Decor_App\Home_Decor_App\bin\Debug\Home_Decor_App.pdb
+F:\C# College Project\Home_Decor_App\Home_Decor_App\obj\Debug\Home_Decor_App.csproj.AssemblyReference.cache
+F:\C# College Project\Home_Decor_App\Home_Decor_App\obj\Debug\Home_Decor_App.frm_Login_Form.resources
+F:\C# College Project\Home_Decor_App\Home_Decor_App\obj\Debug\Home_Decor_App.frm_MDI.resources
+F:\C# College Project\Home_Decor_App\Home_Decor_App\obj\Debug\Home_Decor_App.Properties.Resources.resources
+F:\C# College Project\Home_Decor_App\Home_Decor_App\obj\Debug\Home_Decor_App.csproj.GenerateResource.cache
+F:\C# College Project\Home_Decor_App\Home_Decor_App\obj\Debug\Home_Decor_App.csproj.CoreCompileInputs.cache
+F:\C# College Project\Home_Decor_App\Home_Decor_App\obj\Debug\Home_Decor_App.exe
+F:\C# College Project\Home_Decor_App\Home_Decor_App\obj\Debug\Home_Decor_App.pdb
+F:\C# College Project\Home_Decor_App\Home_Decor_App\obj\Debug\Home_Decor_App.Customer_Details.frm_Add_New_Customer.resources
